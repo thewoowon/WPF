@@ -1,0 +1,15 @@
+C:\Users\PKNU\source\repos\PKNUWPF\bin\Debug\PKNUWPF.exe.config
+C:\Users\PKNU\source\repos\PKNUWPF\bin\Debug\PKNUWPF.exe
+C:\Users\PKNU\source\repos\PKNUWPF\bin\Debug\PKNUWPF.pdb
+C:\Users\PKNU\source\repos\PKNUWPF\obj\Debug\PKNUWPF.csprojAssemblyReference.cache
+C:\Users\PKNU\source\repos\PKNUWPF\obj\Debug\MainWindow.g.cs
+C:\Users\PKNU\source\repos\PKNUWPF\obj\Debug\App.g.cs
+C:\Users\PKNU\source\repos\PKNUWPF\obj\Debug\PKNUWPF_MarkupCompile.cache
+C:\Users\PKNU\source\repos\PKNUWPF\obj\Debug\PKNUWPF_MarkupCompile.lref
+C:\Users\PKNU\source\repos\PKNUWPF\obj\Debug\MainWindow.baml
+C:\Users\PKNU\source\repos\PKNUWPF\obj\Debug\PKNUWPF.g.resources
+C:\Users\PKNU\source\repos\PKNUWPF\obj\Debug\PKNUWPF.Properties.Resources.resources
+C:\Users\PKNU\source\repos\PKNUWPF\obj\Debug\PKNUWPF.csproj.GenerateResource.cache
+C:\Users\PKNU\source\repos\PKNUWPF\obj\Debug\PKNUWPF.csproj.CoreCompileInputs.cache
+C:\Users\PKNU\source\repos\PKNUWPF\obj\Debug\PKNUWPF.exe
+C:\Users\PKNU\source\repos\PKNUWPF\obj\Debug\PKNUWPF.pdb
